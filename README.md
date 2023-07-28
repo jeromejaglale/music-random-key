@@ -1,2 +1,4 @@
-# music-random-key
-Generate random music key
+# Random Key (ex: A minor)
+Generates a random music key
+
+https://jeromejaglale.com/key
